@@ -1,5 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/natalia-zhulina-9657261b9/?locale=fr_FR" target="_blank">Natalia</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Data Analyst</h3>
 
+ - 📫 How to reach me: natjoul@gmail.com 
 <!--
 **NataliaZhulina/NataliaZhulina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
