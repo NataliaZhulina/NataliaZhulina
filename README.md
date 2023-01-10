@@ -2,6 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data Analyst</h3>
 
+
+
+ - 💬 About me:  Увлекающаяся личность с большим количеством разнонаправленных интересов: кино, математика, путешествия, история, дизайн среды, йога, финансы - инвестирование. С лёгкостью пробую новое, люблю учиться и очень люблю эфективность и развитие во всём. 
+ 
  - 📫 How to reach me: natjoul@gmail.com 
 <!--
 **NataliaZhulina/NataliaZhulina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
