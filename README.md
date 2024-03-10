@@ -9,7 +9,7 @@
  
  - 📫 How to reach me: natjoul@gmail.com 
  
- - 🔭 I’m currently working on kaggle project [Childhood Allergies: Prevalence, Diagnosis, and Treatment Outcomes](https://www.kaggle.com/datasets/thedevastator/childhood-allergies-prevalence-diagnosis-and-tre)
+ 
 <!--
 **NataliaZhulina/NataliaZhulina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
